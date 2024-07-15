@@ -12,7 +12,7 @@
     "build": "napi build --release",
     "build:debug": "napi build",
     "build:emitter": "tsc",
-    "install": "pnpm i && pnpm build"
+    "postinstall": "pnpm build"
   },
   "devDependencies": {
     "@napi-rs/cli": "^2.16.3",
