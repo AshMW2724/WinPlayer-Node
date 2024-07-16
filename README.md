@@ -1,3 +1,7 @@
+> [!NOTE]
+>  Forked for use with pnpm. This can be installed with:
+> `pnpm add github:AshMW2724/WinPlayer-Node`
+
 # WinPlayer-Node
 
 Now featuring: Rust rewrite!
